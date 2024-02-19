@@ -14,6 +14,7 @@ step4. npm run dev
 Open http://localhost:5173 to view it in the browser.
 
 #Technologies Used:
+
 React,
 State Managment,
 Routing,
