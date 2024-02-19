@@ -15,15 +15,10 @@ Open http://localhost:5173 to view it in the browser.
 
 #Technologies Used:
 React,
-
 State Managment,
-
 Routing,
-
 Styling,
-
 Firebase,
-
 Data Fetching.
 
 Netlify Link:  https://main--afrosefaria-quiz-project.netlify.app/
