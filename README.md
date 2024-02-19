@@ -3,13 +3,13 @@
 #Installation:
 To run this project locally , follow these steps:
 
-step1. git clone https://github.com/FariaAfrose/Quiz-project.git
+1. git clone https://github.com/FariaAfrose/Quiz-project.git
 
-step2. cd Quiz-project
+2. cd Quiz-project
 
-step3. npm install
+3. npm install
 
-step4. npm run dev
+4. npm run dev
 
 Open http://localhost:5173 to view it in the browser.
 
