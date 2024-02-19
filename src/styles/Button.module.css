@@ -1,0 +1,22 @@
+/* button */
+.button {
+  background: var(--successGreen);
+  color: var(--fontPrimary);
+  border: 0px;
+  padding: 0.6rem 1.2rem;
+  font-size: 15px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  gap: 10px;
+  border-radius: 8px;
+}
+.button:hover {
+  background: var(--fontPrimary);
+  color: #fff;
+}
+.button:hover span {
+  color: #fff;
+}
