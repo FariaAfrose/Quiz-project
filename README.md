@@ -15,28 +15,38 @@ Open http://localhost:5173 to view it in the browser.
 
 ##Technologies Used:
 
-#Frontend:
+Frontend:
 
-React,
-React Router,
-React Hooks(useState, useEffect,useParms,useReducer,useMomo),
-Lodash,
-React Infinite Scroll Component,
-React Player,
-React Icons,
-CSS Modules,
+ React,
+ 
+ React Router,
+ 
+ React Hooks(useState, useEffect,useParms,useReducer,useMomo),
+ 
+ Lodash,
+ 
+ React Infinite Scroll Component,
+ 
+ React Player,
+ 
+ React Icons,
+ 
+ CSS Modules.
 
-#Backend:
+Backend:
 
-Firebase Authentication,
-Firebase Realtime Database
+ Firebase Authentication,
+ 
+ Firebase Realtime Database.
 
-#Build Tools and Utilities
+Build Tools and Utilities
 
-EsLint,
-Prettier
+ EsLint,
+ 
+ Prettier.
 
-#Others
-Data Fetching.
+Others
+
+ Data Fetching.
 
 Netlify Link:  https://main--afrosefaria-quiz-project.netlify.app/
