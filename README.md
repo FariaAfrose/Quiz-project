@@ -14,7 +14,9 @@ To run this project locally , follow these steps:
 Open http://localhost:5173 to view it in the browser.
 
 ##Technologies Used:
+
 #Frontend:
+
 React,
 React Router,
 React Hooks(useState, useEffect,useParms,useReducer,useMomo),
@@ -23,12 +25,17 @@ React Infinite Scroll Component,
 React Player,
 React Icons,
 CSS Modules,
+
 #Backend:
+
 Firebase Authentication,
 Firebase Realtime Database
+
 #Build Tools and Utilities
+
 EsLint,
 Prettier
+
 #Others
 Data Fetching.
 
