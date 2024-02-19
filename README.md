@@ -15,7 +15,7 @@ Open http://localhost:5173 to view it in the browser.
 
 ##Technologies Used:
 
-~Frontend~
+#Frontend
 
   React,
  
@@ -33,19 +33,19 @@ Open http://localhost:5173 to view it in the browser.
  
   CSS Modules.
 
-~Backend~
+#Backend
 
   Firebase Authentication,
  
   Firebase Realtime Database.
 
-~Build Tools and Utilities~
+#Build Tools and Utilities#
 
   EsLint,
  
   Prettier.
 
-~Others~
+#Others
 
   Data Fetching.
 
