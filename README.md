@@ -1,4 +1,4 @@
-                                                                       ##Quiz Project##
+                                                                 ##Quiz Project##
 
 **Installation:**
 
