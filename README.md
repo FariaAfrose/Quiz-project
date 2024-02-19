@@ -1,4 +1,4 @@
-#Quiz Project
+##Quiz Project##
 
 **Installation:**
 
@@ -16,7 +16,7 @@ Open http://localhost:5173 to view it in the browser.
 
 **Technologies Used:**
 
-Frontend
+_Frontend_
 
   * React,
   
@@ -34,19 +34,19 @@ Frontend
    
    * CSS Modules.
 
-#Backend
+_Backend_
 
  * Firebase Authentication,
    
   * Firebase Realtime Database.
 
-#Build Tools and Utilities:#
+_Build Tools and Utilities_
 
   * EsLint,
     
   * Prettier.
 
-#Others
+_Others_
 
   * Data Fetching.
 
