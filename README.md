@@ -22,7 +22,7 @@ _Frontend_
   
   * React Router,
   
-  * React Hooks(useState, useEffect,useParms,useReducer,useMomo),
+  * React Hooks(useState, useEffect,useParams,useReducer,useMemo),
   
    * Lodash,
    
